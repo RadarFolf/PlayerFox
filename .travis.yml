@@ -1,8 +1,8 @@
 language: java
 deploy:
   provider: releases
-  api_key: ""
   file: "fox.jar"
   skip_cleanup: true
   on:
     tags: true
+secure: "NN7FG9LMtFX/fhIj1yGWxpsTUwaDh5wiL9jy6/cBX9azahMFnaVecKJei4914AJ0sPeb950iYDQg1mDQpmviCxFvaWvnw/SVHOUAc904tFvQrgXA2H3VyEZPh8AUzAEbh8sYEnzYVQ7c932anDEn5muN0c0WB1VaznLYWbz/P42pWdTLTzoKxyVa76NmJCvr1Q5Vv/hjvO+iO26BaADcaHsz7pOHxoBvUkuzAkRvABZhAjhT6TM22LCxibiGnoKRK2UNYjaozQyFl8YsLR/dcD7WXc5DLF/CKc7xjkeZElWEz4ahuT3kyw+k+U8G1f3QaIH0vXi6hP2E/aFaddGH3eozLtmV3ynNBSFW6BjITZG4ngXWIzyY1jzKNKJDn12+zs9LEOVsQ3s/s2HdhRTW2vpEYl9K0UEYXwI/7p3Ppoyt3JcFoHC8+cT8lTVNr8AcjbzS7VWSThal/IslLQXAfJr+GsZX0woyhWCBfUQE0a++OGd3dq/ZRl2ZW/+edKicCeKPbaHK/dMa2N9C/UN+lC4BtTwxfX63chxYwG3dtfOCndzPrb1fN9ge/NSjwc6FIehlFGrjcCB+j/LFRd33vH/Y6mNp+P6yWESn5PkFpH71YdHAFWRGKWucHHW2yOkgbFcKizvL8DcxQvUM4Kr3ShFaSd6N+YnI46lx/+MJZg4="
