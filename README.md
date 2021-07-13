@@ -1,4 +1,4 @@
-PlayerVaults
+PlayerFox
 ============
 
 Resource page: https://www.spigotmc.org/resources/playervaultsx.51204/
