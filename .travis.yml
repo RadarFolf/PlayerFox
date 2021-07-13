@@ -2,7 +2,7 @@ language: java
 deploy:
   provider: releases
   api_key: "df9760dad2638438e2cf3bf60978520b89dea3fd"
-  file: "fox.jar
+  file: "fox.jar"
   skip_cleanup: true
   on:
     tags: true
